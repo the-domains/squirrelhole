@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[美妙松鼠洞]]></title>
+        <description><![CDATA[美妙松鼠洞]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 15 Mar 2016 12:55:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Lego｜“机械心”搭建心得（附完整图纸）</p>]]></description>
+            <link>http://chuansong.me/n/2680276</link>
+            <guid isPermaLink="false">8733de46-d51d-4e82-9bce-d7864df36939</guid>
+            <pubDate>Tue, 15 Mar 2016 12:55:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
