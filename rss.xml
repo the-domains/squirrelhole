@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[美妙松鼠洞]]></title>
+        <description><![CDATA[美妙松鼠洞]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 15 Mar 2016 10:02:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[摄影师眼中的下一眼]]></title>
+            <description><![CDATA[<article><h1>&#x8BBE;&#x8BA1;&#xFF5C;&#x6444;&#x5F71;&#x5E08;&#x773C;&#x4E2D;&#x7684;&#x4E0B;&#x4E00;&#x79D2;</h1></article>]]></description>
+            <link>http://mp.weixin.qq.com/s?__biz=MzI1NDA2MDI3MA==&amp;mid=434841011&amp;idx=2&amp;sn=b1471556d0ebf0280e47ed1e558fb38a#wechat_redirect</link>
+            <guid isPermaLink="false">b30bde27-2b4e-48cd-aaf8-b5961cd92b7c</guid>
+            <pubDate>Tue, 15 Mar 2016 10:02:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
