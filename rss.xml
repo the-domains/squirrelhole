@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[美妙松鼠洞]]></title>
         <description><![CDATA[美妙松鼠洞]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/squirrelhole/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 10:02:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Mar 2016 10:03:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/squirrelhole/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[艺｜德国兄弟把颜料桶狠狠地泼向这些国际大牌，美呆了]]></title>
+            <description><![CDATA[<h1>艺｜德国兄弟把颜料桶狠狠地泼向这些国际大牌，美呆了</h1>]]></description>
+            <link>https://thegrid.ai/squirrelhole/11bb3d3b-f1fd-47f6-b352-90feec68cda9/index.html</link>
+            <guid isPermaLink="false">11bb3d3b-f1fd-47f6-b352-90feec68cda9</guid>
+            <pubDate>Tue, 15 Mar 2016 10:02:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[摄影师眼中的下一眼]]></title>
             <description><![CDATA[<article><h1>&#x8BBE;&#x8BA1;&#xFF5C;&#x6444;&#x5F71;&#x5E08;&#x773C;&#x4E2D;&#x7684;&#x4E0B;&#x4E00;&#x79D2;</h1></article>]]></description>
