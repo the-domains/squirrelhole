@@ -1,7 +1,7 @@
 name: 美妙松鼠洞
 favicon: null
-layout_spectrum: 0.25321
-typography_spectrum: 0.51178
+layout_spectrum: 0.79135
+typography_spectrum: 0.24695
 collections:
   - index:
       path: /
@@ -28,13 +28,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#242424'
-    - '#fb9003'
-    - '#fffdef'
-    - '#12880d'
-    - '#2800fe'
+    - '#807f87'
+    - '#c99510'
+    - '#3c463f'
+    - '#ba3c05'
+    - '#690406'
   brandStrength: 0.5
   lightness: 0.5
-  saturation: 0.5
+  saturation: 0.1875
   rhythmicContrast: 0.5
 purpose: []
